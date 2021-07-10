@@ -30,3 +30,7 @@ Introduction to data pipeline, including dataset generators and the tf.data modu
 7. Customizing_Your_Model_with_TensorFlow_Week_3.ipynb
 
 Introduction to model/layer subclassing and custom training loops
+
+8. Customizing_Your_Model_with_TensorFlow_Capstone_Project.ipynb
+
+This project is from the Coursera course "Customizing Your Model with TensorFlow 2" where the final project is to develop a deep learning encoder-decoder model to translate English sentences into German.  I used layer/model subclassing to develop encoder and decoders with embedding, LSTM, and dense layers as well as implemented a custom training loop to get 84% accuracy on the validation test set.
