@@ -34,3 +34,7 @@ Introduction to model/layer subclassing and custom training loops
 8. Customizing_Your_Model_with_TensorFlow_Capstone_Project.ipynb
 
 This project is from the Coursera course "Customizing Your Model with TensorFlow 2" where the final project is to develop a deep learning encoder-decoder model to translate English sentences into German.  I used layer/model subclassing to develop encoder and decoders with embedding, LSTM, and dense layers as well as implemented a custom training loop to get 84% accuracy on the validation test set.
+
+9. Probabilistic_Deep_Learning_with_TensorFlow_Week_1.ipynb
+
+Introduction to distribution objects in the TensorFlow probability module with applications to a Naive Bayes classifier of document topics.
