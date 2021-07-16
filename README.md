@@ -38,3 +38,7 @@ This project is from the Coursera course "Customizing Your Model with TensorFlow
 9. Probabilistic_Deep_Learning_with_TensorFlow_Week_1.ipynb
 
 Introduction to distribution objects in the TensorFlow probability module with applications to a Naive Bayes classifier of document topics.
+
+10. Probabilistic_Deep_Learning_with_TensorFlow_Week_2.ipynb
+
+Introduction to buildling Bayesian neural networks using probabilistic layers to account for both aleatoric and epistemic uncertainty.
