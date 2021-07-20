@@ -42,3 +42,7 @@ Introduction to distribution objects in the TensorFlow probability module with a
 10. Probabilistic_Deep_Learning_with_TensorFlow_Week_2.ipynb
 
 Introduction to buildling Bayesian neural networks using probabilistic layers to account for both aleatoric and epistemic uncertainty.
+
+11. Probabilistic_Deep_Learning_with_TensorFlow_Week_3.ipynb
+
+Bijectors and Normalizing Flows
