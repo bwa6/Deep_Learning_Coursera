@@ -46,3 +46,7 @@ Introduction to buildling Bayesian neural networks using probabilistic layers to
 11. Probabilistic_Deep_Learning_with_TensorFlow_Week_3.ipynb
 
 Bijectors and Normalizing Flows
+
+12. Probabilistic_Deep_Learning_with_TensorFlow_Week_4.ipynb
+
+Variational Autoencoders
