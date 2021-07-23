@@ -50,3 +50,7 @@ Bijectors and Normalizing Flows
 12. Probabilistic_Deep_Learning_with_TensorFlow_Week_4.ipynb
 
 Variational Autoencoders
+
+13. Probabilistic_Deep_Learning_with_TensorFlow_Capstone_Project.ipynb
+
+Combining the material from the course to create an image dataset using bijectors and normalizing flows then training a variational autoencoder on the images.
